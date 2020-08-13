@@ -1,7 +1,6 @@
-# geek-time
+# [geek-time](https://github.com/ppambler/geek-time)
 
 > [学习路径](https://time.geekbang.org/learning/path)
-
 
 ## ★目录
 
